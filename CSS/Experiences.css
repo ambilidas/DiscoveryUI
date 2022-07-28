@@ -1,0 +1,300 @@
+.fstblock {
+    width: 100vw;
+    height: 100vh;
+
+}
+.video{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+#logo1{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+.nav {
+    width: 55%;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: large;
+    position: absolute;
+    bottom:85%;
+    left: 40%;
+    
+}
+#heading1 {
+    
+    position: absolute;
+    bottom: 40%;
+    left: 25%;
+    color: white;
+    font-size: 50px;
+    
+}
+.scndblock {
+    width: 100vw;
+    height: 140vh;
+    
+
+}
+.text1 {
+    width: 100%;
+    height: 35%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    text-align: center;
+    font-family: messina-sans;
+    opacity: 0.5;
+    
+}
+.block2 {
+    width: 100%;
+    height: 65%;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.text2 {
+    width:40% ;
+    height: 80%;
+    
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+
+    
+}
+
+.image1 {
+    width: 40%;
+    height: 90%;
+    display: block;
+    position: relative;
+    bottom: 18px;
+   
+}
+.large-block {
+    width: 100vw;
+    height: 390vh;
+    background-color:rgb(247, 244, 244);
+    
+}
+.grey-box {
+    width: 57%;
+    height: 700px;
+    background-color: grey;
+    z-index: 1;
+    position: relative;
+    left: 18%;
+    bottom: 500px;
+}
+.image2 {
+    width: 70%;
+    height: 95vh;
+    z-index: 2;
+    position: relative;
+    top: 130px;
+}
+.text-box1 {
+    width: 34%;
+    height: 17%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items: center;
+    
+    z-index: 3;
+    position: relative;
+    bottom: 1200px;
+    left: 750px;
+}
+.golf {
+    width: 100%;
+    height: 20%;
+    
+    font-family: messina-sans; 
+    opacity: 0.5;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    left: 85px;
+}
+.golf-para {
+    
+    position: relative;
+    bottom: 20px;
+    color: grey; 
+    text-align: left;
+    line-height: 1.9rem;
+}
+.small-box {
+    width: 30%;
+    height: 15%;
+    border: 1px solid grey;
+    text-align: center;
+    position: relative;
+    right: 100px;
+    bottom: 10px;
+}
+.image3 {
+    width: 75vw;
+    height: 110vh;
+    z-index: 2;
+    position: relative;
+    bottom: 850px;
+    left: 25%;
+}
+.grey-box2 {
+    width: 57%;
+    height: 700px;
+    background-color: grey;
+    z-index: 1;
+    position: relative;
+    bottom: 1500px;
+    left: 350px;
+}
+.text-box2 {
+    width: 34%;
+    height: 17%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items: center;
+    
+    z-index: 3;
+    position: relative;
+    bottom: 2200px;
+    left: 150px;
+}
+.small-box2 {
+    width: 30%;
+    height: 15%;
+    border: 1px solid grey;
+    text-align: center;
+    position: relative;
+    right: 140px;
+}
+.outdoor {
+    width: 100%;
+    height: 20%;
+    
+    font-family: messina-sans; 
+    opacity: 0.5;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    left: 50px;
+}
+.image4 {
+    height: 105vh;
+    width: 70vw;
+    z-index: 2;
+    position: relative;
+    bottom: 1850px;
+}
+.grey-box3 {
+    width: 57%;
+    height: 700px;
+    background-color: grey;
+    z-index: 1;
+    position: relative;
+    bottom: 2500px;
+    left: 280px;
+}
+.text-box3 {
+    width: 34%;
+    height: 17%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items: center;
+    
+    z-index: 3;
+    position: relative;
+    bottom: 3200px;
+    left: 800px;
+}
+.small-box3 {
+    width: 30%;
+    height: 15%;
+    border: 1px solid grey;
+    text-align: center;
+    position: relative;
+    right: 100px;
+}
+.wellness {
+    width: 100%;
+    height: 20%;
+    
+    font-family: messina-sans; 
+    opacity: 0.5;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    left: 90px;
+}
+.image5 {
+    width: 100vw;
+    height: 72vh;
+    position: relative;
+    top: 140px;
+}
+
+.footer-main {
+    width: 100vw;
+    height: 70vh;
+    background-color: rgb(57, 55, 55);
+    color: white;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+   
+}
+#logo-footer {
+    width: 40%;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   position: relative;
+   bottom: 10%;
+   left: 10%;
+}
+
+#list-footer {
+    width: 40%;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#our-world {
+    color: white;
+   
+    position: relative;
+    bottom: 200px;
+    text-align: center;
+}
+.small-box4 {
+    width: 15%;
+    height: 15%;
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+    position: relative;
+    left: 650px;
+    bottom: 150px;
+}

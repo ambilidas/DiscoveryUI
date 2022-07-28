@@ -1,0 +1,181 @@
+
+.fstblock {
+    width: 100vw;
+    height: 100vh;
+
+}
+.video{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+#logo1{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+.nav {
+    width: 55%;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: large;
+    position: absolute;
+    bottom:85%;
+    left: 40%;
+    
+}
+#heading1 {
+    
+    position: absolute;
+    bottom: 30%;
+    left: 25%;
+    color: white;
+    font-size: 90px;
+    
+}
+.secndblock {
+    width: 100vw;
+    height: 130vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative;
+    top: 100px;
+}
+.textblock1 {
+    width: 35%;
+    height: 400px;
+    
+    position: relative;
+    left: 50px;
+}
+.img1 {
+    width: 35%;
+    height: 60%;
+    position: relative;
+    right: 50px;
+}
+.img2 {
+    width: 32%;
+    height: 350px;
+    position: relative;
+    bottom: 350px;
+    left: 150px;
+}
+.thirdblock {
+    width: 100vw;
+    height: 60vh;
+    
+}
+.textblock2 {
+    height: 70%;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: relative;
+    bottom: 200px;
+    left: 250px;
+}
+.places {
+    width: 70%;
+    height: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: large;
+}
+.fourthblock {
+    height: 130vh;
+    width: 100vw;
+  
+}
+
+.img4 {
+    width: 70%;
+    height: 95%;
+    z-index: 1;
+    position: relative;
+    bottom: 200px;
+}
+.black-box {
+    width: 48%;
+    height: 55%;
+    background-color: black;
+    z-index: 2;
+    position: relative;
+    bottom: 1000px;
+    left: 800px;
+}
+.box-elements {
+   color: white;
+   display: flex;
+   flex-direction: column;
+   position: relative;
+   top: 200px;
+   left: 80px;
+}
+.img5 {
+    width: 20%;
+    height: 55%;
+    position: relative;
+    z-index: 3;
+    left: 1200px;
+    bottom: 1600px;
+}
+.fifthblock {
+    width: 100vw;
+    height: 95vh;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    bottom: 250px;
+}
+.imgblock {
+    width: 33.33%;
+    height: 100%;
+}
+.text {
+    width: 100%;
+    height: 70px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    bottom: 700px;
+    color: white;
+}
+.footer-main {
+    width: 100vw;
+    height: 80vh;
+    background-color: rgb(12, 31, 20);
+    color: white;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    bottom: 320px;
+   
+}
+#logo-footer {
+    width: 40%;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   position: relative;
+   bottom: 10%;
+   left: 10%;
+}
+
+#list-footer {
+    width: 40%;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

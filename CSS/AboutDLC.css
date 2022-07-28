@@ -1,0 +1,234 @@
+.header-main {
+    width: 100vw;
+    height: 100vh;
+}
+.img1 {
+    width: 100%;
+    height: 100%;
+}
+#logo1{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+.nav {
+    width: 55%;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: large;
+    position: absolute;
+    bottom:85%;
+    left: 40%;
+    
+}
+#heading1 {
+    font-size: 60px;
+    color: white;
+    position: relative;
+    bottom: 55%;
+    left: 25%;
+}
+.block-para {
+    height: 50vh;
+    width: 100vw;
+}
+#para1 {
+    text-align: center;
+    font-size: 40px;
+    opacity: 0.5;
+    position: relative;
+    top: 25%;
+}
+.block1 {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.textarea1 {
+    width: 40%;
+    height: 60%;
+   
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 20%;
+    left: 60px;
+}
+.img2 {
+    height: 100%;
+    width: 40%;
+}
+.block2 {
+    height: 180vh;
+    width: 100vw;
+    background-color: black;
+}
+.textarea2 {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative;
+    top: 100px;
+}
+.text-block {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.small-box {
+    width: 30%;
+    height: 50px;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.img3 {
+    height: 95vh;
+    width: 70vw;
+    position: relative;
+    top: 20%;
+    left: 20%;
+}
+.imgblock {
+    width: 100vw;
+    height: 140vh;
+}
+.img4 {
+   width: 100%;
+   height: 90%;
+   position: relative;
+   top: 120px;
+}
+.block3 {
+    width: 100vw;
+    height: 150vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative;
+    top: 200px;
+}
+.img5 {
+    width: 40%;
+    height: 90vh;
+}
+.textarea3 {
+    width: 25%;
+    height: 350px;
+    
+    position: relative;
+    top: 100px;
+    right: 50px;
+}
+.img6 {
+    width: 37%;
+    height: 330px;
+    position: relative;
+    bottom: 400px;
+    left: 900px;
+}
+.imgblock2 {
+    width: 100vw;
+    height: 100vh;
+}
+.img7 {
+    width: 100%;
+    height: 100vh;
+   position: relative;
+   bottom: 250px;
+    
+}
+.block4 {
+    width: 100vw;
+    height: 100vh;
+}
+.textarea4 {
+    width:450px ;
+    height:400px ;
+    
+    position: relative;
+    left: 150px;
+
+}
+.img8 {
+    height: 90%;
+    width: 40%;
+    position: relative;
+    left: 50%;
+    bottom: 65%;
+}
+.img9 {
+    width: 37%;
+    height: 330px;
+    position: relative;
+    right: 33%;
+    bottom: 45%;
+}
+.imgblock3 {
+    width: 100vw;
+    height: 65vh;
+    position: relative;
+    top: 100px;
+}
+.img10 {
+    width: 100%;
+    height: 100%;
+}
+#our-world {
+    color: white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+    position: relative;
+    bottom: 75%;
+    font-size: 50px;
+}
+.small-box1 {
+    width: 15%;
+    height: 15%;
+    border: 1px solid white;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 67%;
+    left: 43%;
+}
+.footer-main {
+    width: 100vw;
+    height: 70vh;
+    background-color: rgb(57, 55, 55);
+    color: white;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+   
+}
+#logo-footer {
+    width: 40%;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   position: relative;
+   bottom: 10%;
+   left: 10%;
+}
+
+#list-footer {
+    width: 40%;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

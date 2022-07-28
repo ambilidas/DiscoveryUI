@@ -1,0 +1,88 @@
+#image1 {
+    
+    width: 100vw;
+    height: 60vh;
+}
+header{
+    height: 60vh;
+}
+.discovery-head {
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  color: white;
+}
+.nav {
+    width: 55%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: absolute;
+    bottom:85%;
+    left: 40%;
+    color: white;
+
+}
+.gallery{
+    position: absolute;
+    top: 30%;
+    left: 12%;
+    color: white;
+    
+    font-size: 60px;
+}
+.footer-main {
+        width: 100vw;
+        height: 70vh;
+        background-color: rgb(57, 55, 55);
+        color: white;
+        align-items: center;
+        display: flex;
+        justify-content: space-around;
+}
+#logo-footer {
+        width: 40%;
+       display: flex;
+       flex-direction: row;
+       justify-content: space-between;
+       position: relative;
+       bottom: 10%;
+       left: 10%;
+}
+
+#list-footer {
+        width: 40%;
+        
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+}
+.middle-part {
+    background-color: black;
+    width: 100vw;
+    height: 120vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   
+}
+.images {
+    
+    height: 80%;
+}
+.text {
+    height: 20%;
+    width: 100%;
+    color: white;
+    font-size:larger;
+    
+
+}
+.sub-middle {
+    width: 33%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
